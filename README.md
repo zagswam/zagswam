@@ -1,3 +1,4 @@
+deploy-preview-42--nod3apmwtdrl.app
 deploy-preview-42--nod3apmwtdrl.netlify.app
 Publish directory
 Not setnetlify.app
